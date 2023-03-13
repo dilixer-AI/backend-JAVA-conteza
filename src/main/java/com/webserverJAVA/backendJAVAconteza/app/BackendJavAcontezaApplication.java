@@ -1,4 +1,4 @@
-package com.webserverJAVA.backendJAVAconteza;
+package com.webserverJAVA.backendJAVAconteza.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
